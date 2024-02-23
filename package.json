@@ -1,5 +1,5 @@
 {
-  "name": "netlify-demo",
+  "name": "netlify-remix-demo",
   "private": true,
   "sideEffects": false,
   "type": "module",
